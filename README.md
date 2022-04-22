@@ -1,1 +1,1 @@
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown)
+- Öncelikle AngularJs kullanmak için adres belirtmemiz gerekli veya bilgisayarınıza kurabilirsiniz.######(https://angularjs.org/) adresinden 
