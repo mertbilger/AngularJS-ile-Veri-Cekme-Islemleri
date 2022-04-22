@@ -21,7 +21,7 @@ app.controller("Controller", function($scope,$http){
 
 });
 ```
-- Önemli olan Html dosyamızla Javascript dosyamızı bağlarken tanımlanmış olan controller body içerisinine `ng-app` ve `ng-controller` tanımlamaları yapıyoruz.
+- body içerisine `ng-app` ve `ng-controller` tanımlamalarını yapıyoruz.
 ```html
 <body ng-app="App" ng-controller="Controller">
 ```
