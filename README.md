@@ -1,1 +1,2 @@
-- Öncelikle AngularJs kullanmak için adres belirtmemiz gerekli veya bilgisayarınıza kurabilirsiniz.######(https://angularjs.org/) adresinden 
+- Öncelikle AngularJs kullanmak için adres belirtmemiz gerekli veya bilgisayarınıza kurabilirsiniz.
+- Ben adres belirtmeyi tercih ettiğimden https://angularjs.org/ adresinden Download AngularJs ' e tıklayarak CDN alanını kopyaladım.
